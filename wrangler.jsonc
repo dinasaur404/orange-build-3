@@ -123,11 +123,11 @@
 	],
 	"routes": [
 	  {
-		"pattern": "build.cloudflare.dev",
+		"pattern": "vibe-build.saasysite.me",
 		"custom_domain": true
 	  },
 	  {
-		"pattern": "*build.cloudflare.dev/*",
+		"pattern": "*vibe-build.saasysite.me/*",
 		"custom_domain": false
 	  }
 	],
